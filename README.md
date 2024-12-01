@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=40&duration=4000&pause=3000&color=71F750&center=true&width=435&lines=Hi!+I'm+%40maxxxbond+%3A\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=40&duration=4000&pause=3000&color=71F750&width=435&lines=Hi!+I'm+%40maxxxbond+%3A\))](https://git.io/typing-svg)
 
 ## 🛠️ Technologies & Tools I Use
 
