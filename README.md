@@ -21,4 +21,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-276DC3?style=for-the-badge&logo=telegram&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![11ty](https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=white)
 
